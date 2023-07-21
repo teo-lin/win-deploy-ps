@@ -1,0 +1,23 @@
+{
+    "github": {
+        "username": "your-username",
+        "email": "your-email",
+        "password": "your-password",
+        "personalAccessToken": "your-personal-access-token",
+        "settings": {}
+    },
+    "gitlab": {
+        "username": "your-username",
+        "email": "your-email",
+        "password": "your-password",
+        "personalAccessToken": "your-personal-access-token",
+        "settings": {}
+    },
+    "bitbucket": {
+        "username": "your-username",
+        "email": "your-email",
+        "password": "your-password",
+        "personalAccessToken": "your-personal-access-token",
+        "settings": {}
+    }
+}

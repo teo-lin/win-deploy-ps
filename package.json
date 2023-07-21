@@ -1,0 +1,28 @@
+{
+  "name": "win-deploy-ps",
+  "version": "0.2.0",
+  "description": "Automate windows deployment - Powershell version",
+  "main": "app.cmd",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teo-lin/win-deploy-ps.git"
+  },
+  "keywords": [
+    "windows",
+    "debloat",
+    "deploy",
+    "optimize",
+    "streamline",
+    "setup",
+    "config"
+  ],
+  "author": "Teolin Codreanu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/teo-lin/win-deploy-ps/issues"
+  },
+  "homepage": "https://github.com/teo-lin/win-deploy-ps#readme"
+}
